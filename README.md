@@ -43,6 +43,6 @@ Web-Scraping-Dashboard/
 
 Computer Science & Engineering Student
 
-## 📸 dashboard.png
+## 📸 Dashboard Screenshot
 
 ![Web Scraping Dashboard](dashboard.png)
