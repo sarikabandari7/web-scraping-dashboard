@@ -34,3 +34,15 @@ Web-Scraping-Dashboard/
 ├── scraper.py
 ├── requirements.txt
 └── README.md
+
+
+
+## 👩‍💻 Author
+
+**Sarika Bandari**
+
+Computer Science & Engineering Student
+
+## 📸 Dashboard Screenshot
+
+![Web Scraping Dashboard](dashboard.png)
