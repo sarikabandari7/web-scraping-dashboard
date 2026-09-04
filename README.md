@@ -45,4 +45,4 @@ Computer Science & Engineering Student
 
 ## 📸 Dashboard Screenshot
 
-![Web Scraping Dashboard](dashboard.png)
+![Web Scraping Dashboard](./dashboard.png)
