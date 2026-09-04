@@ -34,9 +34,7 @@ Web-Scraping-Dashboard/
 ├── scraper.py
 ├── requirements.txt
 └── README.md
-
-
-
+```
 ## 👩‍💻 Author
 
 **Sarika Bandari**
